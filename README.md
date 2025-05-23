@@ -23,3 +23,8 @@ Please output the result using the following JSON structure:
     "objects": ["a chair", "a pair of door", "null"],
     "actions": ["null", "null", "90"]
 }
+
+AttributeError: 'DynamicCache' object has no attribute 'get_max_length'
+
+This error appears in many parts of the code. You need to change the structure so that you don't get this error. 
+אישא קררםרק 
